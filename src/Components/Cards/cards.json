@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "Online Classes",
+      "image": "./images/online-class.jpg",
+      "description": "Online live interactive classes, 1-on-1 live classes"
+    },
+    {
+      "id": 2,
+      "title": "Indian Instruments",
+      "image": "https://i0.wp.com/asmusicworld.com/wp-content/uploads/2020/08/12-e1538115961516.jpg?w=644ssl=1",
+      "description": "Learn any Indian instrument at your home"
+    },
+    {
+      "id": 3,
+      "title": "Western Instruments",
+      "image": "https://previews.123rf.com/images/ghenadie/ghenadie1607/ghenadie160700076/59417485-set-of-hand-drawn-classical-musical-instruments-cello-violin-guitar-mandolin-piano-vector-illustrati.jpg?fj=1",
+      "description": "Learn instruments like guitar, piano, drum and many more"
+    },
+    {
+      "id": 4,
+      "title": "Worksheet and History",
+      "image": "./images/notations.jpg",
+      "description": "know more about your instrument's origin, culture and family"
+    },
+    {
+      "id": 5,
+      "title": "Practice",
+      "image": "./images/flute-practice.jpg",
+      "description": "Guide to how you can practice and upgrade your skills in short time"
+    },
+    {
+      "id": 6,
+      "title": "Fun Quiz",
+      "image": "https://ytimg.googleusercontent.com/vi/tb0gHAzpQPE/maxresdefault.jpg",
+      "description": "Enjoy learning with fun quiz, motivate youself "
+    }
+    
+  ]
+  
