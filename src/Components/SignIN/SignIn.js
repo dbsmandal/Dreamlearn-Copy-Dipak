@@ -31,7 +31,7 @@ function SignIn() {
         }
 
 
-    }, []);
+    }, [navigate,user]);
 
     const handleEnterPress = async (e) => {
         // console.log("Enter event", e.key)

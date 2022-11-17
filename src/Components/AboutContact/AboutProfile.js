@@ -12,7 +12,7 @@ const AboutProfile = () => {
                     ContactData.map((curElem) => {
                         const { profileImage, aboutMe, id, github } = curElem;
                         return (
-                            <a href={github} target="_blank">
+                            <a href={github} target="_blank" rel="noreferrer">
                                 <div className='grid   grid-cols-3 gap-5 w-full m-auto p-6 text-lg text-purple-900 border-2 rounded-md  overflow-auto' key={id}>
                                     <div className=' m-auto  '>
                                         <figure >
