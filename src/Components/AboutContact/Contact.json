@@ -4,7 +4,7 @@
         "id": 1,
         "role": "Frontend Developer",
         "profileImage": "https://media-exp1.licdn.com/dms/image/D5603AQG1XhWaX9ZKrw/profile-displayphoto-shrink_800_800/0/1663572180327?e=1672876800&v=beta&t=hoi0vV8j-taRlReABtLj8OnBrseIKSzKlEcZJcCCC9M",
-        "aboutMe": "I am Dipak Mondal, a front-end developer. I have hands-on experience in React, Context-API, Redux, HTML, CSS, and JavaScript. I am happy to say that I am a part of this project. I am a passionate and curious person who is always ready for new technologies and experiments and here I get a chance to show my skills.",
+        "aboutMe": "I am Dipak Mandal, a front-end developer. I have hands-on experience in React, Context-API, Redux, HTML, CSS, and JavaScript. I am happy to say that I am a part of this project. I am a passionate and curious person who is always ready for new technologies and experiments and here I get a chance to show my skills.",
         "email": "dipakmandaljio420@gmail.com",
         "linkden": "https://www.linkedin.com/in/dipak-mandal-7a12951a7/",
         "github": "https://github.com/dbsmandal",
@@ -19,7 +19,7 @@
         "email": "dipakmandaljio420@gmail.com",
         "linkden": "https://www.linkedin.com/in/megha-maurya-21369324b/",
         "github": "https://github.com/meghamaurya",
-        "portfolio": ""
+        "portfolio": "https://mini-portfolio-sable.vercel.app/"
     },
     {
         "name": "Nikhil Gangeri",
