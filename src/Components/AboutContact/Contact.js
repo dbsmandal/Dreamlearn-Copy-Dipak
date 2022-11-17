@@ -16,14 +16,15 @@ function Contact() {
       </div>
       <div className="  text-center w-8/12 m-auto mb-4 h-auto mt-4 rounded-xl  overflow-hidden grid shadow-md gap-20  ">
         {
-          ContactData.map(({ id, github, linkden, name, portfolio,  role }) => {
+          ContactData.map(({ id, github, linkden, name, portfolio,  role,email }) => {
             return (
               <div key={id} className='grid  rounded-xl shadow-md overflow-hidden '>
                 <div className="grid grid-cols-2 mb-3 mt-3  ">
                   
                   <div className=" self-center  ">
-                    <p className="text-2xl font-bold text-purple-900 ">{name}</p>
-                    <p className="text-sm font-semibold text-purple-700">({role})</p>
+                    <p className="text-2xl font-bold text-purple-900 mb-1 ">{name}</p>
+                    <p className="text-sm font-semibold text-purple-700">{role}</p>
+                    <p className="text-sm font-semibold text-purple-700">{email}</p>
 
                   </div>
                   <div className="  self-center ">
@@ -31,7 +32,7 @@ function Contact() {
                       <a href={github} target='_blank' rel="noreferrer">
                         <div className="grid place-content-center place-items-center ">
                           <BsGithub className="w-8 h-8 text-purple-900 hover:text-purple-700" />
-                          <p className="text-sm text-purple-900 font-semibold">Github </p>
+                          <p className="text-sm text-purple-900 font-semibold ">Github </p>
                         </div>
                       </a>
                       <a href={linkden} target='_blank' rel="noreferrer">

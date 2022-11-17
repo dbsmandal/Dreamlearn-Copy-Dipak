@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8526afb6.css",
-    "main.js": "/static/js/main.b1e0f2a9.js",
+    "main.js": "/static/js/main.5204ba61.js",
     "static/media/image5 new.jpg": "/static/media/image5 new.dfaf8afd80761cab76c7.jpg",
     "static/media/image3 new.jpg": "/static/media/image3 new.803a1d78b44876e4dcc2.jpg",
     "static/media/guitar new.jpg": "/static/media/guitar new.0694761b19cff1d8c330.jpg",
@@ -12,10 +12,10 @@
     "static/media/sarod new.jpg": "/static/media/sarod new.bcdcbda0fb41a80600f6.jpg",
     "index.html": "/index.html",
     "main.8526afb6.css.map": "/static/css/main.8526afb6.css.map",
-    "main.b1e0f2a9.js.map": "/static/js/main.b1e0f2a9.js.map"
+    "main.5204ba61.js.map": "/static/js/main.5204ba61.js.map"
   },
   "entrypoints": [
     "static/css/main.8526afb6.css",
-    "static/js/main.b1e0f2a9.js"
+    "static/js/main.5204ba61.js"
   ]
 }

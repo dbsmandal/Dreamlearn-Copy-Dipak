@@ -3,10 +3,15 @@ import AboutProfile from "./AboutProfile";
 
 function About() {
   return (
-    <div className="w-8/12 m-auto py-14 pb-10 select-none">
+    <div className=" m-auto py-14 pb-10  select-none">
+     
+    
+     
+
       <h1 className="text-3xl px-20 opacity-4 shadow-md text-purple-900 inline-block">
         About Us
       </h1>
+      <AboutProfile/>
       <p className="mt-4 px-20 pt-6 pb-5 text-purple-700 text-lg">
         We serve you a platform. Where, who have the ability to teach musical
         instruments can enroll themselves as an Educator. And those who want to
@@ -14,6 +19,7 @@ function About() {
         learn different INDIAN and WESTERN musical instruments with experienced
         Educators .{" "}
       </p>
+      
       <h2 className="text-3xl  px-20 opacity-4 shadow-md mt-10 text-purple-900 inline-block">
         Why does this problem exist?{" "}
       </h2>
@@ -37,7 +43,7 @@ function About() {
         online live classes, detailed theory explanation of instruments with
         notes availability. Live doubt clearing sessions.
       </p>
-      <AboutProfile/>
+     
     </div>
   );
 }
